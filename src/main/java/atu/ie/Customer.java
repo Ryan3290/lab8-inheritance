@@ -3,7 +3,6 @@ package atu.ie;
 public class Customer extends person
 {
     private int  customerNumber;
-    public Customer(int customerNumber);
     private boolean mailingList;
 
     public Customer() {
